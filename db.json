@@ -1,13 +1,11 @@
-[
 {
- "name" : "Alex Hu",
- "address" : "tera hill drive"
-},
-{
- "name" : "Luke Hu",
- "address" : "tera hill drive"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-
-
-]
