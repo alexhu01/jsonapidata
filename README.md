@@ -2,6 +2,8 @@
 fake jason data for api testing
 copy from: https://my-json-server.typicode.com/
 
+url: https://my-json-server.typicode.com/alexhu01/jsonapidata/posts/1
+
 How to
 Create a repository on GitHub (<your-username>/<your-repo>)
 Create a db.json file
